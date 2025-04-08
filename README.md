@@ -1,2 +1,2 @@
-# kyodoki
-JAPN 321: Japanese learning website 
+# 今ドキ日本語
+教科書だけじゃなく、実際の会話や文化を体験しながら学べるサイトです
